@@ -1,0 +1,246 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\user\\source\\repos\\MyFirstConsoleApp\\BankManager.BusinessLogic\\BankManager.BusinessLogic.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\user\\source\\repos\\MyFirstConsoleApp\\BankManager.BusinessLogic\\BankManager.BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\MyFirstConsoleApp\\BankManager.BusinessLogic\\BankManager.BusinessLogic.csproj",
+        "projectName": "BankManager.BusinessLogic",
+        "projectPath": "C:\\Users\\user\\source\\repos\\MyFirstConsoleApp\\BankManager.BusinessLogic\\BankManager.BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\MyFirstConsoleApp\\BankManager.BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\user\\source\\repos\\MyFirstConsoleApp\\BankManager.Entities.Interfaces\\BankManager.Entities.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\user\\source\\repos\\MyFirstConsoleApp\\BankManager.Entities.Interfaces\\BankManager.Entities.Interfaces.csproj"
+              },
+              "C:\\Users\\user\\source\\repos\\MyFirstConsoleApp\\BankManager.Services.Interfaces\\BankManager.Services.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\user\\source\\repos\\MyFirstConsoleApp\\BankManager.Services.Interfaces\\BankManager.Services.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\MyFirstConsoleApp\\BankManager.Entities.Interfaces\\BankManager.Entities.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\MyFirstConsoleApp\\BankManager.Entities.Interfaces\\BankManager.Entities.Interfaces.csproj",
+        "projectName": "BankManager.Entities.Interfaces",
+        "projectPath": "C:\\Users\\user\\source\\repos\\MyFirstConsoleApp\\BankManager.Entities.Interfaces\\BankManager.Entities.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\MyFirstConsoleApp\\BankManager.Entities.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\MyFirstConsoleApp\\BankManager.Entities\\BankManager.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\MyFirstConsoleApp\\BankManager.Entities\\BankManager.Entities.csproj",
+        "projectName": "BankManager.Entities",
+        "projectPath": "C:\\Users\\user\\source\\repos\\MyFirstConsoleApp\\BankManager.Entities\\BankManager.Entities.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\MyFirstConsoleApp\\BankManager.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\user\\source\\repos\\MyFirstConsoleApp\\BankManager.Entities.Interfaces\\BankManager.Entities.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\user\\source\\repos\\MyFirstConsoleApp\\BankManager.Entities.Interfaces\\BankManager.Entities.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\MyFirstConsoleApp\\BankManager.Services.Interfaces\\BankManager.Services.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\MyFirstConsoleApp\\BankManager.Services.Interfaces\\BankManager.Services.Interfaces.csproj",
+        "projectName": "BankManager.Services.Interfaces",
+        "projectPath": "C:\\Users\\user\\source\\repos\\MyFirstConsoleApp\\BankManager.Services.Interfaces\\BankManager.Services.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\MyFirstConsoleApp\\BankManager.Services.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\user\\source\\repos\\MyFirstConsoleApp\\BankManager.Entities.Interfaces\\BankManager.Entities.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\user\\source\\repos\\MyFirstConsoleApp\\BankManager.Entities.Interfaces\\BankManager.Entities.Interfaces.csproj"
+              },
+              "C:\\Users\\user\\source\\repos\\MyFirstConsoleApp\\BankManager.Entities\\BankManager.Entities.csproj": {
+                "projectPath": "C:\\Users\\user\\source\\repos\\MyFirstConsoleApp\\BankManager.Entities\\BankManager.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
