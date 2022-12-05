@@ -1,0 +1,1 @@
+INSERT INTO ApprovementType(Name, Code)VALUES ('Loan', '1');
